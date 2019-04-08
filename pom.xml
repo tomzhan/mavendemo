@@ -68,7 +68,6 @@
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
-					<skipTests>true</skipTests>
 				</configuration>
 				<executions>
 					<execution>
