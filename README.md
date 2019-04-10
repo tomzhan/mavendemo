@@ -10,3 +10,13 @@ ssm_maven多模块开发
 
 
 package -Dmaven.test.skip=true
+
+配置资源所在的地方
+
+	<build>
+		<resources>
+			<resource>
+				<directory>src/main/resources</directory>
+			</resource>
+		</resources>
+	</build>
